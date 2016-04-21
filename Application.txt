@@ -1,0 +1,138 @@
+ECSCA Health & Rescue Organization Adoption Application Form
+Please print, complete, and mail or email to:
+Karen Kirby
+1004 Retford Drive
+Westfield, IN 46074
+fencerow@sbcglobal.net
+Application Information:
+
+ApplicantFirstName
+ApplicantLastName
+ApplicantMI
+ApplicantHomeAddress1
+ApplicantHomeAddress2
+ApplicantCity
+ApplicantState
+ApplicantZip
+ApplicantCountry(default USA)
+# Will they be put on mailing list?  If yes or no - need remark
+ApplicantEmail
+ApplicantMobileNumber
+ApplicantHomeNumber
+ApplicantWorkNumber
+ApplicantAltMobileNumber
+ApplicantAltWorkNumber
+ApplicantHouseholdMembers
+    Name
+        Age
+ApplicantNonFamilialHouseMembers
+    Name
+        Age
+        info:  longterm, temp, are they accepting of animal idea, have you discussed
+        training, feeding, dos and donts with ecs (no food left out, for example)
+AnyHouseholdVet/Tech?
+HouseholdCigaretteSmoker
+ChildrenLivingAtHome
+    Yes, No(never), No(maybefuture)
+    if yes mark applicable age boxes:
+        <6
+        7 - 12
+        13-17
+    if no(maybe)
+        Maybe next 2 years?
+        Maybe next 3-5 years?
+        Maybe in > 5 years?
+OtherChildrenRegularVisitors(non-custodial, babysitting, playdates, temporary foster)
+    if yes mark applicable age boxes:
+        <6
+        7 - 12
+        13-17
+OtherHumansFrequentlyVisitingAtHomeAllAgesAnytime
+    OpenListAges
+OwnedECS
+    if yes:
+        Kennel/ShelterOrgName
+        Kennel/ShelterHumanName(breeder, blank if shelter)
+        Kennel/ShelterState
+        Kennel/ShelterCity
+RescueSpecificDog
+    if yes:
+        DogName
+ApplicantFamilyAllergies
+    If yes:
+        OpenExplain
+DwellingType
+    house/trailer/manufactured home, condo, apartment, townhome, houseboat
+PrivateYard
+    if yes
+        Fenced
+    if no
+        EasyAccesstoPark/walking
+Pool (yes/no)
+HomeOwnership
+    Own or Rent or FamilySupport
+    if Rent/FamilySupport
+        Letter from Landlord approving dog
+6monthChanges
+    sugg-move, new housemembers, baby, renovation, surgery, change job
+ReasonforECSBreed
+    OpenAnswer, spacelimit
+FamiliarwithGrooming
+    link to quick cheat sheet, click when they have reviewed
+FamiliarwithHealthProbs
+    link to quick cheat sheet, click when they have reviewed
+InterestinOtherBreeds
+    if yes
+        list
+        talked to breeders, looked at dogs?
+            yes or no
+    if no
+        confirm, prefer ECS over any other?
+AgePrefer
+GenderPrefer
+ColorPrefer
+QualitiesYouWant
+    link to check list
+QualitiesToAvoid
+    link to check list
+Prior/CurrentPets
+    Type (cat, dog, bird, ferret, rodent, reptile, exotic)
+        Breed(if applicable)
+        Name
+        Neuter (y, n)
+        Age (now or at death)
+        Deceased/Living
+            if Deceased
+                how
+SpecialNeedsDogs
+    blind, deaf, chronic/active med problem (explain nec)
+        if yes, any training/background/history with 
+            intravenous fluids, pills, shots, dental cleaning, etc
+ECSUse
+    hunting, obedience, agility, companion
+PrimaryCaregiver
+    Self, OtherFamily
+DayHuman
+    home during day
+DaytimeLivingConditions
+NightimeLivingConditions
+VacationStayConditions
+ExercisePlan
+How/WhoGroom
+HomeCheck/FollowupVisits
+Reference1
+    Name
+        Telephone
+    Name
+        Telephone
+    Name
+        Telephone
+Veterinarian
+    Name
+        Telephone, Address
+Groomer
+    Name
+        Telephone, Address
+Signature
+    A live signature should be required upon adoption/purchase
+Date
